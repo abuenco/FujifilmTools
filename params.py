@@ -14,7 +14,7 @@ file_params = ["File Name",
 # Camera's shooting information
 shooting_params = ["Make",
                     "Camera Model Name",
-                    "Softrware",
+                    "Software",
                     "Exposure Program",
                     "ISO",
                     "F Number",
