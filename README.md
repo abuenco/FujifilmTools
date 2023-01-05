@@ -11,6 +11,11 @@ More specifically, these tools extract and display Fujifilm image metadata descr
 
 These scripts work for both JPEG and RAF (Fujifilm RAWs) files.
 
+### What is a Fujifilm Film Recipe?
+A Fujifilm film recipe consists of Fuji camera settings one can tweak to simulate the look of 35mm films, such as those produced by Fujifilm and Kodak. Some of the websites I like to get recipes from are:
+- [Fuji X Weekly](https://fujixweekly.com/)
+- [film.recipes](https://film.recipes/)
+
 ## Software dependencies
 - [ExifTool](https://exiftool.org/)
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
